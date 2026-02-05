@@ -1,0 +1,25 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# IDE specific folders
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled output
+/bin/
+build/
+out/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JAR duplicates (we keep only 1 lib folder)
+mysql-connector-*.jar
